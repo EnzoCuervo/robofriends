@@ -1,2 +1,2 @@
 # robofriends
-Simple background radiant generator w/Color picker
+Simple website using API and React to display users on cards
