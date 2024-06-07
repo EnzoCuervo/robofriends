@@ -1,2 +1,2 @@
 # robofriends
-Simple website using API and React to display users on cards
+Simple website with React
